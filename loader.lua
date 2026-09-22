@@ -3,7 +3,7 @@
 -- ===================================================
 
 local SOUND_ID = 107089652181213  -- звук при запуске
-local LOADER_URL = "https://raw.githubusercontent.com/ТВОЙ_НИК/DOGG_RBB/main/hub.lua"  -- СЮДА ВСТАВЬ ССЫЛКУ НА СВОЙ ОСНОВНОЙ СКРИПТ
+local LOADER_URL = local LOADER_URL = "https://raw.githubusercontent.com/danirkasuvak-eng/DOGG-RBB/main/hub.lua" -- СЮДА ВСТАВЬ ССЫЛКУ НА СВОЙ ОСНОВНОЙ СКРИПТ
 
 -- Воспроизведение звука
 local function playSound()
